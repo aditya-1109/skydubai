@@ -277,7 +277,7 @@ function App() {
         <h2>Name you can play with trust</h2>
         <h3>24x7 Withdrawals, Best in class service.</h3>
         <h5>Play once and you will be a fan of our work!</h5>
-        <h1 className='trust-get'>Get your ID here!</h1>
+        <h1 className='trust-get'>Get yourID here!</h1>
 
         <div className='button-container'>
         
